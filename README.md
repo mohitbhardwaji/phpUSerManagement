@@ -14,7 +14,10 @@ This is a PHP-based web application using Bootstrap for the frontend. It include
 
 You can directly use the application via **Sandbox** without installation:
 
-🔗 **Sandbox Link:** [Click Here to Use]((https://phpsandbox.io/e/x/sixae?layout=EditorPreview&defaultPath=%2F&theme=dark&showExplorer=no&openedFiles=))
+🔗 **Sandbox Link:** [Click Here to Use](https://phpsandbox.io/e/x/sixae?layout=EditorPreview&defaultPath=%2F&theme=dark&showExplorer=no&openedFiles=)
+
+In case not able to use above link copy this
+Link: https://phpsandbox.io/e/x/sixae?layout=EditorPreview&defaultPath=%2F&theme=dark&showExplorer=no&openedFiles=
 
 ## Default Credentials
 
